@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Simple Tabs</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="one">One Fragment</string>
+    <string name="two">JAK!</string>
+    <string name="three">Three Fragment</string>
+    <string name="four">Four Fragment</string>
+    <string name="five">Five Fragment</string>
+    <string name="six">Six Fragment</string>
+    <string name="seven">Seven Fragment</string>
+    <string name="eight">Eight Fragment</string>
+    <string name="nine">Nine Fragment</string>
+    <string name="ten">Ten Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
